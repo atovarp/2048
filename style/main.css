@@ -311,57 +311,70 @@ hr {
     text-align: center;
     font-weight: bold;
     z-index: 10;
-    font-size: 55px; }
+    font-size: 55px; } 
   .tile.tile-2 .tile-inner {
-    background: #eee4da;
-    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
+    /*color: #f9f6f2;
+    background: #eee4da;*/
+    background: url('http://avatarmaker.net/free-avatars/avatars/animals_216/birds_232/white_bird_avatar_100x100_40062.jpg');
+    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); 
+  }  
   .tile.tile-4 .tile-inner {
-    background: #ede0c8;
+    /*background: #ede0c8;
+    color: #f9f6f2; */
+    background: url('http://www.maxforums.net/customavatars/avatar58367_2.gif');
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-8 .tile-inner {
-    color: #f9f6f2;
-    background: #f2b179; }
+  /*  background: #f2b179; 
+    color: #f9f6f2; */
+  background: url('http://www.theb9.com/board/download/file.php?avatar=141040_1365109645.jpg') }
   .tile.tile-16 .tile-inner {
-    color: #f9f6f2;
-    background: #f59563; }
+    /*color: #f9f6f2;
+    background: #f59563; */
+   background: url('http://make-cash.pl/uploads/profile/photo-1801.jpg') }
   .tile.tile-32 .tile-inner {
-    color: #f9f6f2;
-    background: #f67c5f; }
-  .tile.tile-64 .tile-inner {
-    color: #f9f6f2;
-    background: #f65e3b; }
+   /* color: #f9f6f2;
+    background: #f67c5f; */
+    background: url('http://avatarmaker.net/free-avatars/avatars/animals_216/birds_232/two_ide_bird_avatar_100x100_49453.jpg'); }
+   .tile.tile-64 .tile-inner {
+    /* color: #f9f6f2;
+    background: #f65e3b; */
+    background: url('http://avatarmaker.net/free-avatars/avatars/animals_216/birds_232/blue_birds_cuddle_avatar_100x100_10509.jpg'); }
   .tile.tile-128 .tile-inner {
-    color: #f9f6f2;
+    /*color: #f9f6f2;
     background: #edcf72;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.2381), inset 0 0 0 1px rgba(255, 255, 255, 0.14286);
     font-size: 45px; }
     @media screen and (max-width: 520px) {
       .tile.tile-128 .tile-inner {
-        font-size: 25px; } }
+        font-size: 25px; } } */
+    background: url('http://cdn-frm-eu.wargaming.net/wot/ru//profile/photo-6017431.jpg')}
   .tile.tile-256 .tile-inner {
-    color: #f9f6f2;
+    /*color: #f9f6f2;
     background: #edcc61;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.31746), inset 0 0 0 1px rgba(255, 255, 255, 0.19048);
     font-size: 45px; }
     @media screen and (max-width: 520px) {
       .tile.tile-256 .tile-inner {
-        font-size: 25px; } }
+        font-size: 25px; } }*/
+    background: url('http://www.thedorkreport.com/wp-content/uploads/2010/01/avatar-100x100.jpg') }
   .tile.tile-512 .tile-inner {
-    color: #f9f6f2;
+    /*color: #f9f6f2;
     background: #edc850;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.39683), inset 0 0 0 1px rgba(255, 255, 255, 0.2381);
     font-size: 45px; }
     @media screen and (max-width: 520px) {
       .tile.tile-512 .tile-inner {
-        font-size: 25px; } }
+        font-size: 25px; } } */
+    background: url('http://www.thedorkreport.com/wp-content/uploads/2010/01/avatar-100x100.jpg')}
   .tile.tile-1024 .tile-inner {
-    color: #f9f6f2;
+    /*color: #f9f6f2;
     background: #edc53f;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.47619), inset 0 0 0 1px rgba(255, 255, 255, 0.28571);
     font-size: 35px; }
     @media screen and (max-width: 520px) {
       .tile.tile-1024 .tile-inner {
-        font-size: 15px; } }
+        font-size: 15px; } }*/
+    background: url('http://avatarmaker.net/free-avatars/avatars/animated_214/99_perfect_animated_avatar_100x100_40977.gif')}
   .tile.tile-2048 .tile-inner {
     color: #f9f6f2;
     background: #edc22e;
